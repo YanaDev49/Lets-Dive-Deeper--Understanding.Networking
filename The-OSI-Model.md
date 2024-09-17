@@ -81,3 +81,28 @@ Layer 7 is where the user interacts, like web browsers or email applications.
                              Functions: Provides network services directly to applications End-user layer
                              components: HTTP, FTP, SMTP
 
+
+
+
+𝗔 𝗾𝘂𝗶𝗰𝗸 𝗿𝘂𝗻 𝗱𝗼𝘄𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗧𝗖𝗣/𝗜𝗣 𝗠𝗼𝗱𝗲𝗹!! 🚀
+
+![image](https://github.com/user-attachments/assets/732b214b-d8d6-40fd-81fe-9a8f237c4786)
+
+
+The TCP model is a simplified framework for how data moves accross networks, like the internet. it has 4 layers that describe how computers communicate with eachother.
+
+𝗛𝗲𝗿𝗲 𝗔𝗿𝗲 𝗶𝘁𝘀 𝟰 𝗟𝗮𝘆𝗲𝗿𝘀!! 🚀
+
+📌 Application Layer: Where users interact with applications (e.g web browsers, email).
+
+📌 Transport Layer: Ensures data is sent reliably or quickly (e.g using TCP for relaibility and UDP for speed).
+
+📌 Internet Layer: Routes data between networks (.e.g using IP addresses).
+
+📌 Network Access Layer: Manages the physical connection (e.g cables Wi-Fi)
+
+In summary, the TCP/IP model explains how data is packaged, sent and recieved over a network, from users application down to the physical network connection.
+
+And these are the concepts that makeup both the OSI Model and TCP/IP model!!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/ab94509c-3380-432c-80dd-e1268ba1662c)
