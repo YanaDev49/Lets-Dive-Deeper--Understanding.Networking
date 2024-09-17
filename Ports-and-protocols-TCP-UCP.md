@@ -1,6 +1,6 @@
 Ports & Protocols: TCP and UCD (Lnaguages that devices use to talk to eachother)
 
-![image](https://github.com/user-attachments/assets/ac2a9676-8390-4dcc-a2a4-be52d5a97233)
+ ![image](https://github.com/user-attachments/assets/0d9be526-4310-4474-8a11-1916b879a354)
 
 What are Ports? 
 
@@ -35,4 +35,33 @@ The Types of Ports!!
 Did you know that there are different types of Ports?
 
 Yep thats right! the main types of ports we will dicuss today is known as: TCP and UDP
+
+![image](https://github.com/user-attachments/assets/a8f79e40-6af5-45fc-9f29-b08f0be9b733)
+
+'TCP' stands for 'Transmission Control Protocol' which is a set of rules that ensures data is sent and recieved reliably between devices over a network, like the internet.
+
+Remember when we said that ports are like specific doorways on a device? TCP ports are are the same except they use the 'Transmission Control Protocol' to send and recieve data reliably over a network!
+
+Lets have a look at the characteristics of TCP ports!!
+
+![image](https://github.com/user-attachments/assets/b0b3066c-b0d9-441e-8a8b-5c5515184c6c)
+
+📍 Reliable data transfer: TCP ensures that data is delivered accuarately and in the right order, even  if there are delays or network issues. checks for errors and controls flow of data to prevent congestion.
+
+📍 connection orientated: Before sending data, TCP creates a connection between two devices, ensuring both are ready to communicate
+
+📍 Port numbers: TCP uses port numbers (like 80 for websites or 443 for secure websites) to direct traffic to the right application or service device.
+
+📍 common TCP Ports:
+
+  📌 Port 80: Used for regular web traffic (HTTP).
+  📌 Port 443: Used for secure web traffic (HTTPS).
+  📌Port 22: Used for secure remote connections (SSH).
+
+   In summary, TCP ports help manage reliable organised communication between devices over the internet or a local network. 
+
+   TCP is used when 2 devices need to exchange data back and forth (known as bidirectional communication) for example browsing emails and 
+file transfers.
+
+REMEMBER! TCP establishes  a connection to be made between the devices before it can work effectively, it lets you know when communication has been sent from one device to another. 
 
