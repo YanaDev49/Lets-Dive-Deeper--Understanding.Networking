@@ -65,3 +65,30 @@ file transfers.
 
 REMEMBER! TCP establishes  a connection to be made between the devices before it can work effectively, it lets you know when communication has been sent from one device to another. 
 
+
+what are UDP Ports?
+
+UDP ports are like doorways on a device that use the 'User Datagram Protocol' to send data quickly, but without ensuring its perfectly delivered.
+
+![image](https://github.com/user-attachments/assets/8cd7800e-318b-44a0-9445-1d3f7164f152)
+
+Characteristics and functions of UDP ports:
+
+🔗 UDP ports are fast but unreliable: UDP doesnt check if the data arrived correctly or in the right order like TCP does. it just sends the data and moves on, which makes it faster than TCP but less reliable.
+
+🔗 UDP is connection less: Unlike TCP, UDP doesnt establish a connection before sending data, it just sends the data straight away.
+
+🔗 UDP is used for things that need speed and can tolerate small amounts of data loss such as video game servers, video streaming and voice over IP calls
+
+🔗 UDP uses port numbers: Like TCP, UDP uses port numbers to direct traffic for example, port 53 is commonly used for DNS (Domain Name system) queries.
+
+In summary, UDP ports allow fast but less relaible data transmission, making them useful for real-time applications like streaming or gaming where speed is more important than perfection. 
+
+
+An that is what Ports and protocols are in Networking!!
+
+![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/c833f643-c061-4f7c-9194-9864d88f6e42)
+
+
+
+
