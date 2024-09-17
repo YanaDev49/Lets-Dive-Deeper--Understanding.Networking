@@ -9,14 +9,16 @@ The OSI Model stands for 'Open Systems Interconnection Model' which is a framewo
 another over a network. It breaks down the process into 7 layers, each with a specific job!!
 
 𝙒𝙝𝙮 𝙙𝙤 𝙬𝙚 𝙣𝙚𝙚𝙙 𝙖 𝙘𝙤𝙢𝙢𝙪𝙣𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝙢𝙤𝙙𝙚𝙡? 🤔
-A communication model provides a standard framework that simplifies the way devices and applications communicate over a network. These models ensure that all devices on 
-the network can understand eachother!
+
+A communication model provides a standard framework that simplifies the way devices and applications communicate over a network. These models ensure that all devices on the network can understand eachother!
 
 The OSI Model provides application independence by seperating networking functions into layers as previously mentioned , where each layer does its own specific job without depending on others. This means applications (like web browsers, email, or games) can work on top of the network without worrying about how data is physically sent or routed
 This is important and beneficial because the application only needs to worry about its own job e.g displaying a web page, while others handle tasks like data transport or error checking.
 
 𝗟𝗲𝘁𝘀 𝗴𝗼 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗮 𝗾𝘂𝗶𝗰𝗸 𝗯𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗢𝗦𝗜 𝗠𝗼𝗱𝗲𝗹 𝗹𝗮𝘆𝗲𝗿𝘀! 
-![NetworkOsiGIF](https://github.com/user-attachments/assets/b58b351f-5e08-4628-a408-b2124e4f4cda)
+
+![Let'SDoThisRbelGIF](https://github.com/user-attachments/assets/a6bbb0aa-63b4-4623-b1b3-733c9c1ce5cc)
+
 
 📲 Layer 1: Physical layer
 
