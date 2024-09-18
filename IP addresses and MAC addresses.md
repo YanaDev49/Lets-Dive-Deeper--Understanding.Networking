@@ -1,4 +1,4 @@
-So What Is An IP Address?
+# So What Is An IP Address?
 
 ![image](https://github.com/user-attachments/assets/1a383322-d9f0-4eab-9165-dd9ea79297ab)
 
@@ -12,17 +12,17 @@ An IPv4 address is a 32 bit address that is made up of four sets of numbers sepe
 
 ![image](https://github.com/user-attachments/assets/4fbdc546-2692-4797-84ba-2d1cc265d320)
 
-So, what is an IPv6 Address?
+## So, what is an IPv6 Address?
 
 An IPv6 address is an 128 bit address (In a hexidecimal format) that provides a much larger pool of addresses, so there are enough for all devices in the world, now and in the future! As well as providing more addresses IPv6 also simplifies addresses and provides enhanced security features.
 
 ![image](https://github.com/user-attachments/assets/e905e34d-bed3-4f4f-bb34-6de11dab760e)
 
-Why are IP Addresses so important? 
+## Why are IP Addresses so important? 
 
 IP addresses are essential for 4 different reasons: They provide unique identification, data routing, communication and global activity.
 
-Lets diver deeper into this!
+## Lets diver deeper into this!
 
 ![image](https://github.com/user-attachments/assets/ac3914bf-7eb2-4cb1-ae32-7f7a4d462bd0)
 
@@ -34,7 +34,7 @@ Lets diver deeper into this!
 
 🚀 IP addresses allow billions of devices to connect and share information across different networks worldwide which is why they are such an important part of tech and our digital system as a whole!!
 
-So what is a MAC address?
+## So what is a MAC address?
 
 ![image](https://github.com/user-attachments/assets/9e0a67ee-4120-4fed-8776-e7286fcd3d15)
 
