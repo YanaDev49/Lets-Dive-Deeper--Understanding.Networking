@@ -18,4 +18,3 @@ Without A DNS (Domain System Name) you would have to type in the whole IP addres
 
 A DNS translates domain names to an IP address which is why we can jut type the name of the website and it will automatically load. Behind the scenes however, our computer is is working through the network trying to connect servers to our IP address. This simplifies navigation on the internet for its users and is essential for accessing websites and services 
 
-
