@@ -1,4 +1,4 @@
-# Ports & Protocols: TCP and UDP (Lnaguages that devices use to talk to eachother)
+# Ports & Protocols: TCP and UDP 🚀🚀
 
  ![image](https://github.com/user-attachments/assets/0d9be526-4310-4474-8a11-1916b879a354)
 
