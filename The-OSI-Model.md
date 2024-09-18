@@ -17,8 +17,7 @@ This is important and beneficial because the application only needs to worry abo
 
 ## 𝗟𝗲𝘁𝘀 𝗴𝗼 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗮 𝗾𝘂𝗶𝗰𝗸 𝗯𝗿𝗲𝗮𝗸𝗱𝗼𝘄𝗻 𝗼𝗳 𝘁𝗵𝗲 𝗢𝗦𝗜 𝗠𝗼𝗱𝗲𝗹 𝗹𝗮𝘆𝗲𝗿𝘀! 
 
-![Let'SDoThisRbelGIF](https://github.com/user-attachments/assets/a6bbb0aa-63b4-4623-b1b3-733c9c1ce5cc)
-
+![image](https://github.com/user-attachments/assets/82281c2e-c5f3-442a-9b38-30c84e67f90c)
 
 ## 📲 Layer 1: Physical layer
 
