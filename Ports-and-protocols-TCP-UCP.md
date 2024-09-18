@@ -2,7 +2,7 @@
 
  ![image](https://github.com/user-attachments/assets/0d9be526-4310-4474-8a11-1916b879a354)
 
-What are Ports? 
+## What are Ports? 
 
 Ports are like doorways on a computer that allow different types of data to enter and leave through the same IP address.
 The most common ports include port 80 for web traffic (HTTP), port 443 for secure web traffic (HTTPS), and port 25 for email (SMTP).
@@ -11,7 +11,7 @@ at the same time.
 
 ![image](https://github.com/user-attachments/assets/62649f08-8239-4450-8adc-c40702e6384c)
 
-What are protocols in networking?
+## What are protocols in networking?
 
 Protocols are like rules or standards that define how data should be sent and recieved over a network. They make sure that different devices and software can communicate properly.
 We can think of protocols as languages that devices use to talk to eachother.
@@ -30,7 +30,7 @@ conclusion and summary for both: ports ensure that data reaches the right applic
 ![image](https://github.com/user-attachments/assets/30e47a29-9c9c-4836-ae5a-8e201aa5fd71)
 
 
-The Types of Ports!!
+# The Types of Ports!!
 
 Did you know that there are different types of Ports?
 
@@ -42,7 +42,7 @@ Yep thats right! the main types of ports we will dicuss today is known as: TCP a
 
 Remember when we said that ports are like specific doorways on a device? TCP ports are are the same except they use the 'Transmission Control Protocol' to send and recieve data reliably over a network!
 
-Lets have a look at the characteristics of TCP ports!!
+## Lets have a look at the characteristics of TCP ports!!
 
 ![image](https://github.com/user-attachments/assets/b0b3066c-b0d9-441e-8a8b-5c5515184c6c)
 
@@ -63,10 +63,10 @@ Lets have a look at the characteristics of TCP ports!!
    TCP is used when 2 devices need to exchange data back and forth (known as bidirectional communication) for example browsing emails and 
 file transfers.
 
-REMEMBER! TCP establishes  a connection to be made between the devices before it can work effectively, it lets you know when communication has been sent from one device to another. 
+### REMEMBER! TCP establishes  a connection to be made between the devices before it can work effectively, it lets you know when communication has been sent from one device to another. 
 
 
-what are UDP Ports?
+## what are UDP Ports?
 
 UDP ports are like doorways on a device that use the 'User Datagram Protocol' to send data quickly, but without ensuring its perfectly delivered.
 
@@ -82,10 +82,8 @@ Characteristics and functions of UDP ports:
 
 🔗 UDP uses port numbers: Like TCP, UDP uses port numbers to direct traffic for example, port 53 is commonly used for DNS (Domain Name system) queries.
 
-In summary, UDP ports allow fast but less relaible data transmission, making them useful for real-time applications like streaming or gaming where speed is more important than perfection. 
+In summary, UDP ports allow fast but less relaible data transmission, making them useful for real-time applications like streaming or gaming where speed is more important than perfection!! 
 
-
-An that is what Ports and protocols are in Networking!!
 
 ![ThereYouHaveItSheaWhitneyGIF](https://github.com/user-attachments/assets/c833f643-c061-4f7c-9194-9864d88f6e42)
 
