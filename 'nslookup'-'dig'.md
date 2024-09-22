@@ -47,3 +47,27 @@ This is the address we take to get to google.com!
 
 ## So How Do We Use 'dig' in our terminal?? 🤔🚀
 
+![image](https://github.com/user-attachments/assets/4f0f22d1-6af3-4e9f-9486-aacdf671f2ef)
+
+- 'dig' is a more powerful version of 'nslookup'
+- you can use either 'nslookup' or 'dig' when you want to do DNS queries however the 'dig' command will give you more details which is why it is more powerful
+
+## The Question Section 
+![image](https://github.com/user-attachments/assets/040f546a-d286-4ce9-a052-ace084705acd)
+
+- The question section shows you the query that you have made.
+- In this instance we have made a query to google.com
+
+## The Answer Section
+![image](https://github.com/user-attachments/assets/5d017f50-5ab5-4f2f-9d8a-8d107885199d)
+
+- The answer section comes back with a list of IP addresses associated with that domain!
+- In this case however, we only have 1 IP address but its possible to have more than 1
+
+#### Ps. These are examples of shorter versions to get the same info using 'dig'
+
+![image](https://github.com/user-attachments/assets/443f23b1-21a7-4935-862d-b9b1a910bcc0)
+
+And that is a Wrap of the two Networking tools that we can use to Debugg issues with DNS!! 🎉🎆
+
+![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/c70ff365-af3b-418b-a653-87527e2c404c)
