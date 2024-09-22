@@ -8,6 +8,7 @@ When you are sending data packets, you want to make sure that your data gets sen
 Routing makes sure that your data gets to its destination quickly and efficiently.
 
 Without Routing, data would get lost or take a really long time to get to where it needs to go! 🛣️
+
 Routing is the reason why the internet works the way it should because its what keeps all our communications streaming.
 
 ## Did You Know That Routers Use Routing Tables to make Decisions?!
@@ -19,13 +20,12 @@ Routing is the reason why the internet works the way it should because its what 
 ## Why Does Routing Matter for DevOps Engineers, Software developers, and network engineers?🤔🚨
 
 - Network Performance Optimisation: When you have an effective route this ensures data packets take the most efficent path reducing latency which
- means that its much faster, which improves overall networking performance
+means that its much faster, which improves overall networking performance
 
 - Ensures Reliable Performance Delivery: correct routing is important for delivery applications and services, especially in complex cloud enviroments
 
-- Managing Complex Infrascructures: As a DevOps Engineer, we will often deal with complex network infrastructures. Understanding routing and the route tables helps each to manage these enviroments more effectively
-- and troubleshoot issues whenever they arrise.
+- Managing Complex Infrascructures: As a DevOps Engineer, we will often deal with complex network infrastructures. Understanding routing and the route tables helps each to manage these enviroments more effectively and troubleshoot issues whenever they arrise.
 
-- ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/02aa9483-eb47-42c0-a39f-854d6bb16b16)
+ ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/02aa9483-eb47-42c0-a39f-854d6bb16b16)
 
 
