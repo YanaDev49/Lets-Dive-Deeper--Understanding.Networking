@@ -1,5 +1,5 @@
 # What Are /etc/hosts Files? 📂🚀
-![image](https://github.com/user-attachments/assets/049addb8-0070-4450-8fce-1751b32bf6e5)
+![image](https://github.com/user-attachments/assets/08ad3fed-8abc-410f-a5c8-0e7f01ce8dab)
 
  - This is also known as your local host file and is something we may need when we are developing or testing networks locally.
 
