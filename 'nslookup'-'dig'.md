@@ -68,6 +68,6 @@ This is the address we take to get to google.com!
 
 ![image](https://github.com/user-attachments/assets/443f23b1-21a7-4935-862d-b9b1a910bcc0)
 
-And that is a Wrap of the two Networking tools that we can use to Debugg issues with DNS!! 🎉🎆
+And that is a Wrap of the two Networking tools that we use to Debugg issues with DNS!! 🎉🎆
 
 ![ThereYouHaveItSheaWhitneyGIF (2)](https://github.com/user-attachments/assets/c70ff365-af3b-418b-a653-87527e2c404c)
